@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <h1 align="center">Hi 👋, I'm Madhusodan Chakraborty</h1>
 <h3 align="center">I'm a passionate fullstack developer from Bangladesh, who currently lived in USA</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGM2eWpic2EyMm5ncHFjZjVqaTNxc2dtOGZ2NXAydmt1b3AzNTk1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp"
